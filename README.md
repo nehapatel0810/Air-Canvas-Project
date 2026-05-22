@@ -10,12 +10,13 @@ Virtual Air Canvas using OpenCV and MediaPipe
 - Close the full palm (make a fist) to stop drawing or finalize shapes.
 
 ### Tool Selection
-- Raise both index and middle fingers to enter selection mode.
-- Touch buttons using fingertip to:
-  - Select colors
-  - Choose shapes
-  - Change brush type
-  - Enable eraser
+- Open the full palm (all fingers open) to enter tool selection mode.
+- Use the index fingertip to select buttons and tools.
+- Different options can be selected such as:
+  - Colors
+  - Shapes
+  - Brush types
+  - Eraser
   - Clear canvas
 
 ### Fill Tool
